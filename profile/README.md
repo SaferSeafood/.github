@@ -1,11 +1,1 @@
-Information about our project here!
-
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Dichlorodiphenyltrichloroethane (DDT) is an insecticide that is resistant to degradation and can cause increased risks of cancer, premature births, developmental abnormalities, and neurological diseases in humans and animals. A recent rediscovery of a vast barrel field of DDT-laced sludge off the coast of southern California has captured the attention of the public and raised concerns regarding consumption of contaminated seafood. Alongside direct public health impacts, a decrease in seafood consumers poses a threat to the regional economy and recreational fishing communities. The California Environmental Protection Agency Office of Environmental Health Hazard Assessment (OEHHA) currently issues statewide consumption advisories for coastal communities. However, these advisories are severely limited as they are site and species-specific, covering only two chemicals: Mercury and PCBs.  These limitations make it nearly impossible for consumers to receive proper guidance on all safe and healthy seafood products. Scientists at the Scripps Institute of Oceanography and CalCOFI have collected and compiled fish and sediment monitoring data in order to understand the human and ecological impact as a result of the DDT dumping. Their current model has shown that they can predict localized risk in sport fish, and our goal is to expand on this to develop a spatiotemporal statistical model to produce more accurately predicted DDT concentrations for unmeasured species and locations. We will also develop an interactive online application that will allow users to input species, location, and demographic information and receive predicted DDT concentrations and advisories. This project will help to inform the public and give users the autonomy to understand the risk and make informed decisions on their seafood consumption.
