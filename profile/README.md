@@ -14,22 +14,25 @@ Scientists at the Scripps Institute of Oceanography and CalCOFI have collected a
 ## Acknowledgments 
 
 This project could not have been completed without the support and guidance of this project.
-Faculty Advisor:
-Dr. Bruce Kendall, Bren School of Environmental Science & Management
-Capstone Advisor:
-Dr. Carmen Galaz García, Bren School of Environmental Science & Management
-Clients:
-Dr. Erin Satterthwaite, Sustainability Researcher, Sea Grant & CalCOFI, Scripps Institution of Oceanography, UCSD.
-Dr. Lillian McGill, Scripps Institution of Oceanography, UCSD.
-Dr. Brice X. Semmens, Director, California Cooperative Oceanic Fisheries Investigations (CalCOFI), Professor, Scripps Institution of Oceanography, UCSD
-Special Thanks:
-Allie Caughman Ph.D. Candidate, Bren School of Environmental Science & Management
-Dr. Amalia Aruda Almada, Extension Program Leader, Science, Research, and
-Policy Specialist, University of Southern California Sea Grant Program
-Maria Madrigal, M.S., Education Manager, University of Southern California Sea Grant Program
-Ian Brunjes, SCCOOS
-Dr. Wes Smith, Chief, Fish, Ecotoxicology & Water Section, OEHHA/CalEPA
-All the amazing people in the Masters of Environmental Data Science Cohort and Capstone Committee
+
+- **Faculty Advisor:**
+  - Dr. Bruce Kendall, Bren School of Environmental Science & Management
+
+- **Capstone Advisor:**
+  - Dr. Carmen Galaz García, Bren School of Environmental Science & Management
+
+- **Clients:**
+  - Dr. Erin Satterthwaite, Sustainability Researcher, Sea Grant & CalCOFI, Scripps Institution of Oceanography, UCSD
+  - Dr. Lillian McGill, Scripps Institution of Oceanography, UCSD
+  - Dr. Brice X. Semmens, Director, California Cooperative Oceanic Fisheries Investigations (CalCOFI), Professor, Scripps Institution of Oceanography, UCSD
+
+- **Special Thanks:**
+  - Allie Caughman, Ph.D. Candidate, Bren School of Environmental Science & Management
+  - Dr. Amalia Aruda Almada, Extension Program Leader, Science, Research, and Policy Specialist, University of Southern California Sea Grant Program
+  - Maria Madrigal, M.S., Education Manager, University of Southern California Sea Grant Program
+  - Ian Brunjes, SCCOOS
+  - Dr. Wes Smith, Chief, Fish, Ecotoxicology & Water Section, OEHHA/CalEPA
+  - All the amazing people in the Masters of Environmental Data Science Cohort and Capstone Committee
 
 ## References 
 California Cooperative Oceanic Fisheries Investigations. (n.d.). CalCOFI: California cooperative oceanic fisheries investigations. Retrieved June 3, 2024, from https://calcofi.org/.
