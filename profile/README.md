@@ -1,5 +1,9 @@
 # SaferSeafood 
-## Improving Access to Fish Consumption Advisories in Southern California 
+## Improving Access to Fish Consumption Advisories and Maintaining Confidence in California’s Healthy Seafood Products
+
+This is a capstone project for the Master of Environmental Data Science at Bren School of Environmental Science and Management, University of California, Santa Barbara. It was completed by Hope Hahn, Luna Herschenfield - Catalan, Ben Versteeg, and Kate Becker. 
+
+https://bren.ucsb.edu/projects/improving-access-fish-consumption-advisories-and-maintaining-confidence-californias
 
 
 ## Project Summary
@@ -11,7 +15,6 @@ Scientists at the Scripps Institute of Oceanography and CalCOFI have collected a
 
 
 ## Acknowledgments 
-
 
 This project could not have been completed without the support and guidance of this project.
 Faculty Advisor:
