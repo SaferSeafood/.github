@@ -1,5 +1,5 @@
 # SaferSeafood 
-![The SaferSeafood Team](https://github.com/
+![The SaferSeafood Team](https://github.com/SaferSeafood/.github/blob/main/profile/team-saferseafood.jpg?raw=true)
 
 ## Improving Access to Fish Consumption Advisories and Maintaining Confidence in California’s Healthy Seafood Products
 
