@@ -1,5 +1,4 @@
 # SaferSeafood 
-![Uploading team-saferseafood.jpg…]()
 
 
 ## Improving Access to Fish Consumption Advisories and Maintaining Confidence in California’s Healthy Seafood Products
