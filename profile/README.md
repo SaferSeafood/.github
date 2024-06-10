@@ -1,5 +1,5 @@
 # SaferSeafood 
-![The SaferSeafood Team](https://github.com/CASAschools/.github/assets/108312152/68e6b2ba-c5b7-4b96-831c-2224ddfa057f)
+![The SaferSeafood Team](https://github.com/
 
 ## Improving Access to Fish Consumption Advisories and Maintaining Confidence in California’s Healthy Seafood Products
 
