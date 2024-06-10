@@ -3,7 +3,7 @@
 
 ## Improving Access to Fish Consumption Advisories and Maintaining Confidence in California’s Healthy Seafood Products
 
-This is a [capstone project](https://bren.ucsb.edu/projects/improving-access-fish-consumption-advisories-and-maintaining-confidence-californias) for the Master of Environmental Data Science at Bren School of Environmental Science and Management, University of California, Santa Barbara. The authors of this project are Hope Hahn, Luna Herschenfield - Catalan, Ben Versteeg, and Kate Beckerand creaated for our clients at [Scripps: ](https://scripps.ucsd.edu) Institute of Oceanagrahy UC San Diego  and the California Cooperative Oceanic Fisheries Investigation ([CalCOFI](https://calcofi.org/)). 
+This is a [capstone project](https://bren.ucsb.edu/projects/improving-access-fish-consumption-advisories-and-maintaining-confidence-californias) for the Master of Environmental Data Science at Bren School of Environmental Science and Management, University of California, Santa Barbara. The authors of this project are [Hope Hahn:](https://github.com/h-hahn), [Luna Herschenfield - Catalan:](https://github.com/lunacatalan), [Ben Versteeg:](https://github.com/BenVerst) ,and [Kate Becker:](https://github.com/kateebeckerr) and creaated for our clients at [Scripps: ](https://scripps.ucsd.edu) Institute of Oceanagrahy UC San Diego  and the California Cooperative Oceanic Fisheries Investigation ([CalCOFI](https://calcofi.org/)). 
 
 
 ## Project Summary
